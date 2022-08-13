@@ -1,8 +1,7 @@
-<img align="right" width=100% alt="Coding" src="https://github.com/KaylaJKLab/KaylaJKLab/blob/main/assets/Asset%201.png">
+<img align="center" width=100% alt="Coding" src="https://github.com/KaylaJKLab/KaylaJKLab/blob/main/assets/Asset%201.png">
 
 
   ### Hi there 👋
-[![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +14,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color="#383838"&right_color="#F40C96")
 [![Repos Badge](https://badges.pufler.dev/repos/kaylajklab)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/kaylajklab)](https://badges.pufler.dev)
-
+<a href="https://github.com/kaylajklab/github-readme-stats/issues">
+      <img alt="Issues" src="https://camo.githubusercontent.com/9a1ccc014b4e40f5f5e4d5a6da28a6324e6f6cf045e6daf466b01c24f6bb1bbf/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f616e7572616768617a72612f6769746875622d726561646d652d73746174733f636f6c6f723d303038386666" data-canonical-src="https://img.shields.io/github/issues/kaylajklab/github-readme-stats?color=0088ff" style="max-width: 100%;">
+    </a>
 <!--
 **KaylaJKLab/KaylaJKLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +35,6 @@ Here are some ideas to get you started:
 
 ![Kayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaylajklab&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylajklab&langs_count=8&show_icons=true&theme=radical)
 
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaylajklab&theme=radical&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9)](https://git.io/streak-stats)
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaylajklab&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9)](https://git.io/streak-stats)
+
