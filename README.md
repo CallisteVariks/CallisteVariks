@@ -1,9 +1,9 @@
-<img align="right" alt="Coding" src="https://github.com/KaylaJKLab/KaylaJKLab/blob/main/assets/Asset%201.png">
+<img align="right" width="100%" alt="Coding" src="https://github.com/KaylaJKLab/KaylaJKLab/blob/main/assets/Asset%201.png">
 
 
   ### Hi there 👋
-![Created Badge](https://badges.pufler.dev/created/kaylajklab/git-badges)](https://badges.pufler.dev)
-![Updated Badge](https://badges.pufler.dev/updated/kaylajklab/git-badges)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,9 +13,9 @@
 <a href="https://discord.com/channels/K'sLab#6441" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.png" alt="" height="30" width="40" /></a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-![Repos Badge](https://badges.pufler.dev/repos/kaylajklab)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/kaylajklab)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color="#383838"&right_color="#F40C96")
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 
 <!--
 **KaylaJKLab/KaylaJKLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylajklab&langs_count=8&show_icons=true&theme=radical)
 
-![GitHub Streak](http://github-readme-streak-stats.kaylajklab.com?user=&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaylajklab&theme=radical&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9)](https://git.io/streak-stats)
