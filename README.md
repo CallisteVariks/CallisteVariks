@@ -15,7 +15,7 @@ I always try to combine my creative side with the technical bakground. Therefore
 </p>
 
 
-<table style="width:100%" border="1" border-color="black" align="center" >
+<table style="width:100%" border="0" border-color="black" align="center" !important>
     <tr>
     <td>
         <img src="https://github-readme-stats.vercel.app/api?username=kaylajklab&show_icons=true&theme=radical&bg_color=383838&text_color=03EDFF&icon_color=7F79C9&"/>
