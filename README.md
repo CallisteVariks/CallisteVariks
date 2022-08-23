@@ -14,8 +14,8 @@ I always try to combine my creative side with the technical bakground. Therefore
 <a href="https://www.deviantart.com/kaylajklab" target="blank"><img align="center" src="https://github.com/KaylaJKLab/KaylaJKLab/blob/main/assets/icons/deviantart.svg" alt="" height="30" width="40" /></a><a href="https://www.twitch.tv/kaylajklab" target="blank"><img align="center" src="https://github.com/KaylaJKLab/KaylaJKLab/blob/main/assets/icons/twitch.svg" alt="" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCUjcEIyiu24iD17N2pSv_mg" target="blank"><img align="center" src="https://github.com/KaylaJKLab/KaylaJKLab/blob/main/assets/icons/youtube.svg" alt="" height="30" width="40" /></a><a href="https://discord.com/channels/K'sLab#6441" target="blank"><img align="center" src="https://github.com/KaylaJKLab/KaylaJKLab/blob/main/assets/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
 <table style="width:100%" border="0" border-color="black" align="center" !important>
+<tbody border="0" !important>    
     <tr>
     <td>
         <img src="https://github-readme-stats.vercel.app/api?username=kaylajklab&show_icons=true&theme=radical&bg_color=383838&text_color=03EDFF&icon_color=7F79C9&"/>
@@ -30,6 +30,7 @@ I always try to combine my creative side with the technical bakground. Therefore
         <img src="https://github-readme-streak-stats.herokuapp.com?user=kaylajklab&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9"/>
      </td>
   </tr>
+    </tbody>
 </table>
 
 
