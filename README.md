@@ -18,15 +18,15 @@ I always try to combine my creative side with the technical bakground. Therefore
 <table style="width:100%">
   <tr>
     <td>
-        <markdown> ![Kayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaylajklab&show_icons=true&theme=radical&bg_color=383838&text_color=03EDFF&icon_color=7F79C9&)
+        <markdown> <img src="https://github-readme-stats.vercel.app/api?username=kaylajklab&show_icons=true&theme=radical&bg_color=383838&text_color=03EDFF&icon_color=7F79C9&"/>
         </markdown></td>
     <td rowspan="2">
-        <markdown> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylajklab&langs_count=15&theme=radical&bg_color=383838&title_color=F40C96&text_color=03EDFF)
+        <markdown> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylajklab&langs_count=15&theme=radical&bg_color=383838&title_color=F40C96&text_color=03EDFF"/>
         </markdown></td>
   </tr>
   <tr>
     <td>
-        <markdown> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaylajklab&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9)
+        <markdown> <img src="https://github-readme-streak-stats.herokuapp.com?user=kaylajklab&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9"/>
         </markdown></td>
   </tr>
 </table>
