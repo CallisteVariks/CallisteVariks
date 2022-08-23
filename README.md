@@ -15,19 +15,19 @@ I always try to combine my creative side with the technical bakground. Therefore
 </p>
 
 
-<table style="width:100%" border="0">
+<table style="width:100%" border="1">
   <tr>
     <td>
-        <markdown> <img src="https://github-readme-stats.vercel.app/api?username=kaylajklab&show_icons=true&theme=radical&bg_color=383838&text_color=03EDFF&icon_color=7F79C9&"/>
-        </markdown></td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kaylajklab&show_icons=true&theme=radical&bg_color=383838&text_color=03EDFF&icon_color=7F79C9&"/>
+    <td>
     <td rowspan="2">
-        <markdown> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylajklab&langs_count=15&theme=radical&bg_color=383838&title_color=F40C96&text_color=03EDFF"/>
-        </markdown></td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylajklab&langs_count=15&theme=radical&bg_color=383838&title_color=F40C96&text_color=03EDFF"/>
+    <td>
   </tr>
   <tr>
     <td>
-        <markdown> <img src="https://github-readme-streak-stats.herokuapp.com?user=kaylajklab&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9"/>
-        </markdown></td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=kaylajklab&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9"/>
+     <td>
   </tr>
 </table>
 
