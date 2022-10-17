@@ -1,8 +1,6 @@
 <img align="center" width=100% alt="Coding" src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/2022.09_DeeDee_banner.png">
 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=callistevariks&left_color="#e4e2e2"&right_color="#F40C96")
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kaylajklab&left_color="#e4e2e2"&right_color="#F40C96")
 
     
