@@ -2,7 +2,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kaylajklab&left_color="#e4e2e2"&right_color="#F40C96")
+![visitors](https://visitor-badge.glitch.me/badge?page_id=callistevariks&left_color="#e4e2e2"&right_color="#F40C96")
     
     
 ###  👋 Hi there
@@ -11,7 +11,7 @@ I always try to combine my creative side with the technical bakground. Therefore
 
 <p align="center">
 📫 How to reach me:
-<a href="https://www.deviantart.com/kaylajklab" target="blank"><img align="center" src="https://github.com/CallisteVariks/CallisteVariks/tree/main/assets/icons/deviantart.svg" alt="" height="30" width="40" /></a><a href="https://www.twitch.tv/quinndeedee" target="blank"><img align="center" src="https://github.com/CallisteVariks/CallisteVariks/tree/main/assets/icons/twitch.svg" alt="" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCUjcEIyiu24iD17N2pSv_mg" target="blank"><img align="center" src="https://github.com/CallisteVariks/CallisteVariks/tree/main/assets/icons/youtube.svg" alt="" height="30" width="40" /></a><a href="https://discord.com/channels/DeeDee#6441" target="blank"><img align="center" src="https://github.com/CallisteVariks/CallisteVariks/tree/main/assets/icons/discord.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.deviantart.com/kaylajklab" target="blank"><img align="center" src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/deviantart.svg" alt="" height="30" width="40" /></a><a href="https://www.twitch.tv/quinndeedee" target="blank"><img align="center" src="https://github.com/CallisteVariks/CallisteVariks/tree/main/assets/icons/twitch.svg" alt="" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCUjcEIyiu24iD17N2pSv_mg" target="blank"><img align="center" src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/youtube.svg" alt="" height="30" width="40" /></a><a href="https://discord.com/channels/DeeDee#6441" target="blank"><img align="center" src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <table style="width:100%" border="0" border-color="black" align="center" !important>
