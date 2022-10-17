@@ -4,6 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=callistevariks&left_color="#e4e2e2"&right_color="#F40C96")
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=callistevariks.visitor-badge)
+![Visitor Count](https://profile-counter.glitch.me/callistevariks/count.svg)
     
     
 ###  👋 Hi there
