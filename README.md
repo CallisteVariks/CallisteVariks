@@ -6,8 +6,15 @@
     
     
 ###  👋 Hi there
-💻 I'm a technology enthusiat with a background in Software Engineer, currently pursuing a data oriented interest. 
-I always try to combine my creative side with the technical bakground. Therefore in my spare time, I draw and create logos, icons, banner and panels for Twitch, or I develop some mobile app. Soon will be release in Google Play Store --> Stay tuned! 🔜
+💻 I'm a technology enthusiast with a background in software engineering, currently pursuing a data-oriented interest. 
+I always try to combine my creative side with my technical background. Therefore in my spare time, I draw and create logos, icons, banners, and panels for Twitch, or I develop some mobile apps. Soon will be released in Google Play Store --> Stay tuned! 🔜
+
+
+<p align="top"> Check out my work on <a href="https://www.kaggle.com/datasets/danishasif/canada-immigratation">Kaggle ⮐</a>
+    <br>
+    <a href="https://www.kaggle.com/datasets/danishasif/canada-immigratation"><img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/kaggle-svgrepo-com.svg" height=100 align="bottom"></a>
+</p>
+
 
 <p align="center">
 📫 How to reach me:
