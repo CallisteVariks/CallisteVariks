@@ -9,9 +9,9 @@
 I always try to combine my creative side with my technical background. Therefore in my spare time, I draw and create logos, icons, banners, and panels for Twitch, or I develop some mobile apps. Soon will be released in Google Play Store --> Stay tuned! 🔜
 
 
-<p align="top"> Check out my work on <a href="https://www.kaggle.com/datasets/danishasif/canada-immigratation">Kaggle ⮐</a>
+<p align="top"> Check out my work on <a href="https://www.kaggle.com/variksstudios">Kaggle ⮐</a>
     <br>
-    <a href="https://www.kaggle.com/datasets/danishasif/canada-immigratation"><img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/kaggle-svgrepo-com.svg" height=100 align="bottom"></a>
+    <a href="https://www.kaggle.com/variksstudios"><img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/kaggle-svgrepo-com.svg" height=100 align="bottom"></a>
 </p>
 
 
