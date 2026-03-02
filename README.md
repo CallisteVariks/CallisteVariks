@@ -1,19 +1,17 @@
 <img align="center" width=100% alt="Coding" src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/2023.09__VS_banner2.png">
 
-<![visitors](https://visitor-badge.glitch.me/badge?page_id=CallisteVariks&left_color="#e4e2e2"&right_color="#F40C96")
+<!-- <![visitors](https://visitor-badge.glitch.me/badge?page_id=CallisteVariks&left_color="#e4e2e2"&right_color="#F40C96") -->
 
     
     
 ###  👋 Hi there
-💻 I'm a technology enthusiast with a background in software engineering, currently pursuing a data-oriented interest. 
-I always try to combine my creative side with my technical background. Therefore in my spare time, I draw and create logos, icons, banners, and panels for Twitch, or I develop some mobile apps. Soon will be released in Google Play Store --> Stay tuned! 🔜
+💻 I'm a technology enthusiast with a background in software engineering and data science. 
+I always try to combine my creative side with my technical background. Therefore in my spare time, I draw and create logos, icons, banners, and panels for Twitch, or I develop mobile apps or create open-source Python notebook with advanced analytics and machine learning algorithms for everyone to use. 
 
 
-<p align="top"> Check out my work on <a href="https://www.kaggle.com/variksstudios">Kaggle ⮐</a>
-    <br>
-    <a href="https://www.kaggle.com/variksstudios"><img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/kaggle-svgrepo-com.svg" height=100 align="bottom"></a>
+<p align="top"> Check out my work on <!-- <a href="https://www.kaggle.com/variksstudios">Kaggle ⮐</a> -->
+    <a href="https://www.kaggle.com/variksstudios"><img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/kaggle-svgrepo-com.svg" height=50 align="center"></a>
 </p>
-
 
 <p align="center">
 📫 How to reach me:
@@ -27,6 +25,11 @@ I always try to combine my creative side with my technical background. Therefore
         <img align="center" src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=callistevariks&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9"/>    
+</p>
+
+<!--
 <table style="width:100%" border="0" border-color="black" align="center" !important>
 <tbody border="0" !important>    
     <tr>
@@ -37,7 +40,6 @@ I always try to combine my creative side with my technical background. Therefore
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callistevariks&langs_count=15&theme=radical&bg_color=383838&title_color=F40C96&text_color=03EDFF"/>
     </td>
   </tr>
-  
   <tr>
     <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=callistevariks&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9"/>
@@ -45,6 +47,6 @@ I always try to combine my creative side with my technical background. Therefore
   </tr>
     </tbody>
 </table>
-
+-->
 
 
