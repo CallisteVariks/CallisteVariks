@@ -1,6 +1,6 @@
 <img align="center" width=100% alt="Coding" src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/2023.09__VS_banner2.png">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CallisteVariks&left_color="#e4e2e2"&right_color="#F40C96")
+<![visitors](https://visitor-badge.glitch.me/badge?page_id=CallisteVariks&left_color="#e4e2e2"&right_color="#F40C96")
 
     
     
