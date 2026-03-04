@@ -25,9 +25,17 @@ I always try to combine my creative side with my technical background. Therefore
         <img align="center" src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<!--
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=callistevariks&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9"/>    
 </p>
+-->
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=CallisteVariks&theme=radical&align=center&background=383838&ring=F40C96&fire=F40C96&currStreakNum=03EDFF&sideNums=F40C96&currStreakLabel=03EDFF&sideLabels=F40C96&dates=7F79C9"/>    
+</p>
+
+
 
 <!--
 <table style="width:100%" border="0" border-color="black" align="center" !important>
