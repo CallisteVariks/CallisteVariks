@@ -133,7 +133,7 @@ I always try to combine my creative side with my technical background. Therefore
     linux.svg
     -->
 </p>
-
+<br><br>
 <h3 align="left" class="heading-element" dir="auto">Current interest/Learning:</h3>
 <p align="left" dir="auto"> 
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/linux.svg" alt="linux" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
