@@ -128,9 +128,55 @@ I always try to combine my creative side with my technical background. Therefore
 <a href="https://help.sap.com/docs/SAP_HANA_PLATFORM/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/sap-hana-studio.png" alt="sap-hana-studio" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
 <!--
     pytorch.svg
-    numpy.svg
+    numpy.svg + https://numpy.org/
+    https://pandas.pydata.org/
+    https://seaborn.pydata.org/
+    http://scikit-learn.org/
+    https://matplotlib.org/
+    https://spacy.io/
+    https://plotly.com/
+    
     raspberry-pi.svg
-    linux.svg
+    
+
+    https://www.r-project.org/
+    https://firebase.google.com/
+    https://astah.net/products/astah-uml/
+    https://truecontext.com/
+    https://learn.microsoft.com/en-us/dynamics/s-e/nav/msdnav2018download_672
+    https://www.microsoft.com/da-dk/dynamics-365/products/field-service
+    https://www.microsoft.com/en-us/power-platform/dataverse
+    https://www.iis.net/
+    https://aws.amazon.com/sagemaker/
+    https://learn.microsoft.com/en-us/powerquery-m/
+    
+    https://www.c-language.org/
+    https://www.geeksforgeeks.org/computer-organization-architecture/what-is-assembly-language/
+
+
+    +
+    Decision Trees
+    Random Forest
+    KNN (K-Nearest Neighbors)
+    K-means
+    DBSCAN (Density-Based Spatial Clustering of Applications)
+    Neural Networks
+    Markov Model
+    Bayesian Networks
+    SVM (Support Vector Machine)
+    NLP (Natural Language Processing)
+    NLTK (Natural Language ToolKit)
+    LDA (Liniar Discriminant Analysis)
+    TF-IDF (Term Frequency-Inverse Document Frequency)
+    AdaBoost (Adaptive Boosting)
+    RNN (Recurrent Neural Networks)
+    LSTM (Long Short-Term Memory)
+    Linear Regression
+    Topic Modelling
+    PCA (Principal Component Analysis)
+    Collaborative Filtering
+    Content-Based Filtering
+    
     -->
 </p>
 <br><br>
