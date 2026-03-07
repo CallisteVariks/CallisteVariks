@@ -126,6 +126,15 @@ I always try to combine my creative side with my technical background. Therefore
 <br>
 <a href="https://www.sap.com/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/sap.png" alt="sap" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
 <a href="https://help.sap.com/docs/SAP_HANA_PLATFORM/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/sap-hana-studio.png" alt="sap-hana-studio" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
+
+</p>
+<br><br>
+<h3 align="left" class="heading-element" dir="auto">Current interest/Learning:</h3>
+<p align="left" dir="auto"> 
+<a href="https://www.linux.org/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/linux.svg" alt="linux" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a> <a href="https://linuxmint.com/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/linux-mint.svg" alt="linux-mint" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a> <a href="https://www.vim.org/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/vim.png" alt="vim" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a> <a href="https://neovim.io/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/neovim.png" alt="neovim" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
+</p>
+
+
 <!--
     pytorch.svg
     numpy.svg + https://numpy.org/
@@ -135,10 +144,9 @@ I always try to combine my creative side with my technical background. Therefore
     https://matplotlib.org/
     https://spacy.io/
     https://plotly.com/
-    
+    -
     raspberry-pi.svg
-    
-
+    -
     https://www.r-project.org/
     https://firebase.google.com/
     https://astah.net/products/astah-uml/
@@ -149,11 +157,9 @@ I always try to combine my creative side with my technical background. Therefore
     https://www.iis.net/
     https://aws.amazon.com/sagemaker/
     https://learn.microsoft.com/en-us/powerquery-m/
-    
+    -
     https://www.c-language.org/
     https://www.geeksforgeeks.org/computer-organization-architecture/what-is-assembly-language/
-
-
     +
     Decision Trees
     Random Forest
@@ -176,13 +182,4 @@ I always try to combine my creative side with my technical background. Therefore
     PCA (Principal Component Analysis)
     Collaborative Filtering
     Content-Based Filtering
-    
     -->
-</p>
-<br><br>
-<h3 align="left" class="heading-element" dir="auto">Current interest/Learning:</h3>
-<p align="left" dir="auto"> 
-<a href="https://www.linux.org/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/linux.svg" alt="linux" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a> <a href="https://linuxmint.com/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/linux-mint.svg" alt="linux-mint" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a> <a href="https://www.vim.org/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/vim.png" alt="vim" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a> <a href="https://neovim.io/" rel="nofollow"> <img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/neovim.png" alt="neovim" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
-</p>
-
-
