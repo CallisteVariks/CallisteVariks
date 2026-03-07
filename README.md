@@ -6,7 +6,7 @@
     
 ###  👋 Hi there
 💻 I'm a technology enthusiast with a background in software engineering and data science. 
-I always try to combine my creative side with my technical background. Therefore in my spare time, I draw and create logos, icons, banners, and panels for Twitch, or I develop mobile apps, create open-source Python notebook with advanced analytics and machine learning algorithms for everyone to use. 
+I always try to combine my creative side with my technical background. Therefore, in my spare time, I draw and create logos, icons, banners, and panels for Twitch, or I develop mobile apps, create open-source Python notebooks with advanced analytics and machine learning algorithms for everyone to use. 
 
 
 <p align="top"> Check out my work on <!-- <a href="https://www.kaggle.com/variksstudios">Kaggle ⮐</a> -->
