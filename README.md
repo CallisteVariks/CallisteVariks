@@ -172,7 +172,7 @@ I always try to combine my creative side with my technical background. Therefore
     SVM (Support Vector Machine)
     NLP (Natural Language Processing)
     NLTK (Natural Language ToolKit)
-    LDA (Liniar Discriminant Analysis)
+    LDA (Linear Discriminant Analysis)
     TF-IDF (Term Frequency-Inverse Document Frequency)
     AdaBoost (Adaptive Boosting)
     RNN (Recurrent Neural Networks)
