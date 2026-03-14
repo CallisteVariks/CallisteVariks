@@ -9,8 +9,8 @@
 I always try to combine my creative side with my technical background. Therefore, in my spare time, I draw and create logos, icons, banners, and panels for Twitch, or I develop mobile apps, create open-source Python notebooks with advanced analytics and machine learning algorithms for everyone to use. 
 
 
-<p align="top"> Check out my work on <!-- <a href="https://www.kaggle.com/variksstudios">Kaggle ⮐</a> -->
-    <a href="https://www.kaggle.com/variksstudios"><img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/kaggle.svg" height=50 align="center"></a>
+<p align="top"> Check out my work on <!-- <a href="https://www.kaggle.com/variksstudios">Kaggle </a> -->
+<a href="https://www.kaggle.com/variksstudios"><img src="https://github.com/CallisteVariks/CallisteVariks/blob/main/assets/icons/kaggle.svg" height=50 align="center"></a>
 </p>
 
 <p align="center">
