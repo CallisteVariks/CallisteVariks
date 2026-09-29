@@ -32,8 +32,6 @@
 
 <div align="center">
 
-# CallisteVariks
-
 ### `data` · `engineering` · `apps` · `building things`
 
 I like figuring out how things work, making them better,  
@@ -43,8 +41,6 @@ and occasionally building something simply because I wondered if I could.
 </div>
 
 ---
-
-## About
 
 I work across **data, analytics, software engineering, and app development**.
 
@@ -56,7 +52,7 @@ My GitHub is a mix of practical tools, experiments, side projects, and ideas tha
 > learn by making things
 > occasionally over-engineer something for fun
 ```
-
+<!--
 ## What I build
 ### 📱 Apps
 I'm building mobile apps for different everyday use cases, including:
@@ -78,7 +74,7 @@ I also work on:
 - Markdown and CSS experiments
 - small utilities
 - whatever problem looks interesting next
-
+-->
 ---
 
 ## Tech
