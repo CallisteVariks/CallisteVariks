@@ -200,7 +200,7 @@ Reusable Markdown layouts and CSS components for building more visual interfaces
 
 <div align="center">
 
-### `01000011 01100001 01101100 01101100 01101001 01110011 01110100 01100101`
+### `01100100 01100101 01100101`
 
 <sub>Currently somewhere between “this could be useful” and “I wonder if I can build that.”</sub>
 
